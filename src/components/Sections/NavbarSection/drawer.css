@@ -1,0 +1,3 @@
+.Collapsible__trigger.is-open svg {
+    transform: rotate(180deg);
+  }

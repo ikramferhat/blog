@@ -1,0 +1,16 @@
+.Home{
+margin-top: 0px;
+}
+
+.slick-prev:before {
+color: black; 
+content:"<";
+
+  
+}
+.slick-next:before {
+    color: black; 
+    content:">";
+}
+
+
