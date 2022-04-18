@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot from 2021-09-06 14-19-52](https://user-images.githubusercontent.com/89824366/163807260-d32e1fc5-772a-4dd6-82cb-e84da41d8f8c.png)![Screenshot from 2021-09-06 14-19-58](https://user-images.githubusercontent.com/89824366/163807271-82d587be-ebc2-46bf-bd14-ecb7ece9d7da.png)
+![Screenshot from 2021-09-06 14-27-19](https://user-images.githubusercontent.com/89824366/163807280-367bd679-e77c-4b02-86f6-b4a3c32f87b8.png)
+![Screenshot from 2021-09-06 14-42-19](https://user-images.githubusercontent.com/89824366/163807287-03703aad-1499-4253-aad7-c06b9a594e51.png)
+![Screenshot from 2021-09-06 14-42-25](https://user-images.githubusercontent.com/89824366/163807307-de032cf7-1f73-412c-b7a2-14a38c472f34.png)
+![Screenshot from 2021-09-06 14-42-33](https://user-images.githubusercontent.com/89824366/163807312-654aa7e7-8325-4825-8b4d-daac797f0e15.png)
+![Screenshot from 2021-09-06 17-34-29](https://user-images.githubusercontent.com/89824366/163807321-c670cd34-344a-4ce0-aa4f-471c4cc88382.png)
+![Screenshot from 2021-09-06 17-34-40](https://user-images.githubusercontent.com/89824366/163807324-cf704df3-7b6d-41a1-afa1-24c578a5532d.png)
+
+
